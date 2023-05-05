@@ -1,0 +1,15 @@
+D:\Semester 1\_DPK\Russian_Roulette\bin\Debug\net6.0\Russian_Roulette.exe
+D:\Semester 1\_DPK\Russian_Roulette\bin\Debug\net6.0\Russian_Roulette.deps.json
+D:\Semester 1\_DPK\Russian_Roulette\bin\Debug\net6.0\Russian_Roulette.runtimeconfig.json
+D:\Semester 1\_DPK\Russian_Roulette\bin\Debug\net6.0\Russian_Roulette.dll
+D:\Semester 1\_DPK\Russian_Roulette\bin\Debug\net6.0\Russian_Roulette.pdb
+D:\Semester 1\_DPK\Russian_Roulette\obj\Debug\net6.0\Russian_Roulette.csproj.AssemblyReference.cache
+D:\Semester 1\_DPK\Russian_Roulette\obj\Debug\net6.0\Russian_Roulette.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 1\_DPK\Russian_Roulette\obj\Debug\net6.0\Russian_Roulette.AssemblyInfoInputs.cache
+D:\Semester 1\_DPK\Russian_Roulette\obj\Debug\net6.0\Russian_Roulette.AssemblyInfo.cs
+D:\Semester 1\_DPK\Russian_Roulette\obj\Debug\net6.0\Russian_Roulette.csproj.CoreCompileInputs.cache
+D:\Semester 1\_DPK\Russian_Roulette\obj\Debug\net6.0\Russian_Roulette.dll
+D:\Semester 1\_DPK\Russian_Roulette\obj\Debug\net6.0\refint\Russian_Roulette.dll
+D:\Semester 1\_DPK\Russian_Roulette\obj\Debug\net6.0\Russian_Roulette.pdb
+D:\Semester 1\_DPK\Russian_Roulette\obj\Debug\net6.0\Russian_Roulette.genruntimeconfig.cache
+D:\Semester 1\_DPK\Russian_Roulette\obj\Debug\net6.0\ref\Russian_Roulette.dll
