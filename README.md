@@ -1,0 +1,1 @@
+This project is using RNG (Random Number Generator) the RNG is (rng.Next(1, 4) == 3), that means the 'rng' cannot repeat the same number again between 1 - 4 and IF the 'rng' is equal to 3, the player or the BOT dies and the other wins
